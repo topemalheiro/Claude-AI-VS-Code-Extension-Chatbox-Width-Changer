@@ -55,4 +55,4 @@ To find the current class name:
 
 ## License
 
-MIT
+Apache-2.0
