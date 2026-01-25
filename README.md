@@ -1,4 +1,4 @@
-# Claude Code VS Code Extension Mods
+# Claude AI VS-Code Extension Chatbox-Width Changer
 
 PowerShell scripts to fix annoyances and customize the Claude Code VS Code extension.
 
